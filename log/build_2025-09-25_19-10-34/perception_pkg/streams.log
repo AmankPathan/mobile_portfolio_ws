@@ -1,0 +1,32 @@
+[0.930s] Invoking command in '/home/amankhan-riyasat-pathan/mobile_portfolio_ws/src/perception_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/perception_pkg build --build-base /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/build install --record /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/install.log --single-version-externally-managed install_data
+[1.168s] running egg_info
+[1.168s] creating ../../build/perception_pkg/perception_pkg.egg-info
+[1.186s] writing ../../build/perception_pkg/perception_pkg.egg-info/PKG-INFO
+[1.187s] writing dependency_links to ../../build/perception_pkg/perception_pkg.egg-info/dependency_links.txt
+[1.187s] writing requirements to ../../build/perception_pkg/perception_pkg.egg-info/requires.txt
+[1.187s] writing top-level names to ../../build/perception_pkg/perception_pkg.egg-info/top_level.txt
+[1.187s] writing manifest file '../../build/perception_pkg/perception_pkg.egg-info/SOURCES.txt'
+[1.225s] reading manifest file '../../build/perception_pkg/perception_pkg.egg-info/SOURCES.txt'
+[1.225s] writing manifest file '../../build/perception_pkg/perception_pkg.egg-info/SOURCES.txt'
+[1.225s] running build
+[1.225s] running build_py
+[1.226s] creating /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/build
+[1.226s] creating /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/build/lib
+[1.226s] creating /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/build/lib/perception_pkg
+[1.226s] copying perception_pkg/__init__.py -> /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/build/lib/perception_pkg
+[1.226s] running install
+[1.231s] running install_lib
+[1.249s] creating /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages/perception_pkg
+[1.249s] copying /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/build/lib/perception_pkg/__init__.py -> /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages/perception_pkg
+[1.249s] byte-compiling /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages/perception_pkg/__init__.py to __init__.cpython-312.pyc
+[1.250s] running install_data
+[1.250s] creating /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/share/ament_index
+[1.250s] creating /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/share/ament_index/resource_index
+[1.250s] creating /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/share/ament_index/resource_index/packages
+[1.250s] copying resource/perception_pkg -> /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/share/ament_index/resource_index/packages
+[1.250s] copying package.xml -> /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/share/perception_pkg
+[1.250s] running install_egg_info
+[1.270s] Copying ../../build/perception_pkg/perception_pkg.egg-info to /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages/perception_pkg-0.0.0-py3.12.egg-info
+[1.271s] running install_scripts
+[1.395s] writing list of installed files to '/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/install.log'
+[1.418s] Invoked command in '/home/amankhan-riyasat-pathan/mobile_portfolio_ws/src/perception_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/perception_pkg build --build-base /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/build install --record /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/install.log --single-version-externally-managed install_data
