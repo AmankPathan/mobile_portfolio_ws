@@ -1,0 +1,70 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done (0.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_xacro
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/environment/resource_paths.dsv
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/launch/Twist.yaml
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/launch/bringup_launch.py
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/launch/cam_launch.py
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/launch/description_launch.py
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/launch/manual_launch.py
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/launch/rviz_launch.py
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/launch/upload_launch.py
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/launch/world_launch.py
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/config/ekf.yaml
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/config/model.rviz
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/config/pi_camera.yaml
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/meshes/bases/burger_base.stl
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/meshes/bases/waffle_base.stl
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/meshes/bases/waffle_pi_base.stl
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/meshes/sensors/astra.dae
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/meshes/sensors/astra.jpg
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/meshes/sensors/lds.stl
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/meshes/sensors/r200.dae
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/meshes/sensors/r200.jpg
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/meshes/wheels/left_tire.stl
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/meshes/wheels/right_tire.stl
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/urdf/common_properties.urdf
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/urdf/common_properties.xacro
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/urdf/turtlebot3_burger.urdf.xacro
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/urdf/turtlebot3_gazebo.xacro
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/urdf/turtlebot3_waffle_pi.urdf.xacro
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/urdf/turtlebot3_world.sdf
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/lib/turtlebot3_xacro/99-turtlebot3-cdc.rules
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/lib/turtlebot3_xacro/bringup.sh
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/lib/turtlebot3_xacro/create_udev_rules
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/lib/turtlebot3_xacro/odometry.py
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/lib/turtlebot3_xacro/record4slam.sh
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/lib/turtlebot3_xacro/setup_boot_bringup.sh
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/lib/turtlebot3_xacro/sync_time.sh
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/ament_index/resource_index/package_run_dependencies/turtlebot3_xacro
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/ament_index/resource_index/parent_prefix_path/turtlebot3_xacro
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/environment/ament_prefix_path.sh
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/environment/ament_prefix_path.dsv
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/environment/path.sh
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/environment/path.dsv
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/local_setup.bash
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/local_setup.sh
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/local_setup.zsh
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/local_setup.dsv
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/package.dsv
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/ament_index/resource_index/packages/turtlebot3_xacro
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/cmake/turtlebot3_xacroConfig.cmake
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/cmake/turtlebot3_xacroConfig-version.cmake
+-- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_xacro/share/turtlebot3_xacro/package.xml

@@ -1,0 +1,81 @@
+[0.043s] Invoking command in '/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_teleop:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_example:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg:/home/amankhan-riyasat-pathan/ros2_ws/install/turtle_controller:/home/amankhan-riyasat-pathan/ros2_ws/install/my_py_pkg:/home/amankhan-riyasat-pathan/install/my_py_pkg:/home/amankhan-riyasat-pathan/ros2_proj/install/turtle_controller:/home/amankhan-riyasat-pathan/ros2_proj/install/pub_sub_project:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/amankhan-riyasat-pathan/mobile_portfolio_ws/src/turtlebot3/turtlebot3_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node
+[0.530s] -- The C compiler identification is GNU 13.3.0
+[0.530s] -- The CXX compiler identification is GNU 13.3.0
+[0.530s] -- Detecting C compiler ABI info
+[0.743s] -- Detecting C compiler ABI info - done
+[0.755s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.755s] -- Detecting C compile features
+[0.756s] -- Detecting C compile features - done
+[0.768s] -- Detecting CXX compiler ABI info
+[0.996s] -- Detecting CXX compiler ABI info - done
+[1.012s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.012s] -- Detecting CXX compile features
+[1.013s] -- Detecting CXX compile features - done
+[1.022s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.220s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.300s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.380s] -- Found dynamixel_sdk: 3.8.4 (/opt/ros/jazzy/share/dynamixel_sdk/cmake)
+[1.386s] -- Found geometry_msgs: 5.3.6 (/opt/ros/jazzy/share/geometry_msgs/cmake)
+[1.459s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.482s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.507s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.536s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.600s] -- Found message_filters: 4.11.7 (/opt/ros/jazzy/share/message_filters/cmake)
+[1.690s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.696s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.804s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.825s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.848s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.969s] -- Found nav_msgs: 5.3.6 (/opt/ros/jazzy/share/nav_msgs/cmake)
+[2.006s] -- Found sensor_msgs: 5.3.6 (/opt/ros/jazzy/share/sensor_msgs/cmake)
+[2.042s] -- Found std_srvs: 5.3.6 (/opt/ros/jazzy/share/std_srvs/cmake)
+[2.064s] -- Found tf2: 0.36.14 (/opt/ros/jazzy/share/tf2/cmake)
+[2.072s] -- Found tf2_ros: 0.36.14 (/opt/ros/jazzy/share/tf2_ros/cmake)
+[2.224s] -- Found turtlebot3_msgs: 2.4.0 (/opt/ros/jazzy/share/turtlebot3_msgs/cmake)
+[2.436s] -- Configuring done (2.4s)
+[2.464s] -- Generating done (0.0s)
+[2.547s] -- Build files have been written to: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_node
+[2.735s] Invoked command in '/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_teleop:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_example:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg:/home/amankhan-riyasat-pathan/ros2_ws/install/turtle_controller:/home/amankhan-riyasat-pathan/ros2_ws/install/my_py_pkg:/home/amankhan-riyasat-pathan/install/my_py_pkg:/home/amankhan-riyasat-pathan/ros2_proj/install/turtle_controller:/home/amankhan-riyasat-pathan/ros2_proj/install/pub_sub_project:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/amankhan-riyasat-pathan/mobile_portfolio_ws/src/turtlebot3/turtlebot3_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node
+[2.736s] Invoking command in '/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_teleop:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_example:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg:/home/amankhan-riyasat-pathan/ros2_ws/install/turtle_controller:/home/amankhan-riyasat-pathan/ros2_ws/install/my_py_pkg:/home/amankhan-riyasat-pathan/install/my_py_pkg:/home/amankhan-riyasat-pathan/ros2_proj/install/turtle_controller:/home/amankhan-riyasat-pathan/ros2_proj/install/pub_sub_project:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_node -- -j12 -l12
+[2.793s] [ 42%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/devices/motor_power.cpp.o[0m
+[2.793s] [ 42%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/devices/reset.cpp.o[0m
+[2.793s] [ 42%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/odometry.cpp.o[0m
+[2.793s] [ 42%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/devices/sound.cpp.o[0m
+[2.793s] [ 42%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/diff_drive_controller.cpp.o[0m
+[2.793s] [ 42%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/dynamixel_sdk_wrapper.cpp.o[0m
+[2.794s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/turtlebot3.cpp.o[0m
+[2.794s] [ 64%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/joint_state.cpp.o[0m
+[2.794s] [ 64%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/sensor_state.cpp.o[0m
+[2.794s] [ 71%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/battery_state.cpp.o[0m
+[2.794s] [ 78%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/imu.cpp.o[0m
+[20.786s] [ 85%] [32m[1mLinking CXX static library libturtlebot3_node_lib.a[0m
+[21.547s] [ 85%] Built target turtlebot3_node_lib
+[21.567s] [ 92%] [32mBuilding CXX object CMakeFiles/turtlebot3_ros.dir/src/node_main.cpp.o[0m
+[24.356s] [100%] [32m[1mLinking CXX executable turtlebot3_ros[0m
+[25.326s] [100%] Built target turtlebot3_ros
+[25.353s] Invoked command in '/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_teleop:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_example:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg:/home/amankhan-riyasat-pathan/ros2_ws/install/turtle_controller:/home/amankhan-riyasat-pathan/ros2_ws/install/my_py_pkg:/home/amankhan-riyasat-pathan/install/my_py_pkg:/home/amankhan-riyasat-pathan/ros2_proj/install/turtle_controller:/home/amankhan-riyasat-pathan/ros2_proj/install/pub_sub_project:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_node -- -j12 -l12
+[25.355s] Invoking command in '/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_teleop:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_example:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg:/home/amankhan-riyasat-pathan/ros2_ws/install/turtle_controller:/home/amankhan-riyasat-pathan/ros2_ws/install/my_py_pkg:/home/amankhan-riyasat-pathan/install/my_py_pkg:/home/amankhan-riyasat-pathan/ros2_proj/install/turtle_controller:/home/amankhan-riyasat-pathan/ros2_proj/install/pub_sub_project:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_node
+[25.365s] -- Install configuration: ""
+[25.365s] -- Execute custom install script
+[25.366s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/param/burger.yaml
+[25.375s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/param/waffle.yaml
+[25.383s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/param/waffle_pi.yaml
+[25.392s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/lib/turtlebot3_node/turtlebot3_ros
+[25.401s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_node
+[25.410s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_node
+[25.420s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/environment/ament_prefix_path.sh
+[25.429s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/environment/ament_prefix_path.dsv
+[25.438s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/environment/path.sh
+[25.446s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/environment/path.dsv
+[25.455s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.bash
+[25.464s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.sh
+[25.473s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.zsh
+[25.482s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.dsv
+[25.490s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/package.dsv
+[25.499s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/ament_index/resource_index/packages/turtlebot3_node
+[25.508s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[25.517s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[25.526s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/turtlebot3_nodeConfig.cmake
+[25.535s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/turtlebot3_nodeConfig-version.cmake
+[25.544s] -- Symlinking: /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_node/share/turtlebot3_node/package.xml
+[25.555s] Invoked command in '/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_teleop:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_example:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg:/home/amankhan-riyasat-pathan/ros2_ws/install/turtle_controller:/home/amankhan-riyasat-pathan/ros2_ws/install/my_py_pkg:/home/amankhan-riyasat-pathan/install/my_py_pkg:/home/amankhan-riyasat-pathan/ros2_proj/install/turtle_controller:/home/amankhan-riyasat-pathan/ros2_proj/install/pub_sub_project:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_node

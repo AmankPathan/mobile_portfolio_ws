@@ -1,0 +1,9 @@
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_xacro/CMakeFiles/uninstall.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_xacro/CMakeFiles/turtlebot3_xacro_uninstall.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_xacro/CMakeFiles/test.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_xacro/CMakeFiles/edit_cache.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_xacro/CMakeFiles/rebuild_cache.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_xacro/CMakeFiles/list_install_components.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_xacro/CMakeFiles/install.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_xacro/CMakeFiles/install/local.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_xacro/CMakeFiles/install/strip.dir

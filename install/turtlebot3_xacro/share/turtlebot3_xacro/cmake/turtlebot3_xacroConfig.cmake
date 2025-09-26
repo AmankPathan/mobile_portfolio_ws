@@ -1,0 +1,1 @@
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_xacro/ament_cmake_core/turtlebot3_xacroConfig.cmake

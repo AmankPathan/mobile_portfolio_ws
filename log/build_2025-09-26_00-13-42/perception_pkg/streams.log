@@ -1,0 +1,15 @@
+[1.276s] Invoking command in '/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/build --no-deps symlink_data
+[1.588s] running develop
+[1.795s] running egg_info
+[1.815s] writing perception_pkg.egg-info/PKG-INFO
+[1.815s] writing dependency_links to perception_pkg.egg-info/dependency_links.txt
+[1.815s] writing requirements to perception_pkg.egg-info/requires.txt
+[1.815s] writing top-level names to perception_pkg.egg-info/top_level.txt
+[1.855s] reading manifest file 'perception_pkg.egg-info/SOURCES.txt'
+[1.856s] writing manifest file 'perception_pkg.egg-info/SOURCES.txt'
+[1.876s] running build_ext
+[1.876s] Creating /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages/perception-pkg.egg-link (link to .)
+[1.877s] 
+[1.877s] Installed /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg
+[1.877s] running symlink_data
+[1.908s] Invoked command in '/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/build --no-deps symlink_data
