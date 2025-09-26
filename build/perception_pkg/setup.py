@@ -1,1 +1,0 @@
-/home/amankhan-riyasat-pathan/mobile_portfolio_ws/src/perception_pkg/setup.py

@@ -1,0 +1,16 @@
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/burger_camera_pkg//launch/spawn_burger_camera.launch.py
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/ament_index/resource_index/package_run_dependencies/burger_camera_pkg
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/ament_index/resource_index/parent_prefix_path/burger_camera_pkg
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/burger_camera_pkg/environment/ament_prefix_path.sh
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/burger_camera_pkg/environment/ament_prefix_path.dsv
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/burger_camera_pkg/environment/path.sh
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/burger_camera_pkg/environment/path.dsv
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/burger_camera_pkg/local_setup.bash
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/burger_camera_pkg/local_setup.sh
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/burger_camera_pkg/local_setup.zsh
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/burger_camera_pkg/local_setup.dsv
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/burger_camera_pkg/package.dsv
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/ament_index/resource_index/packages/burger_camera_pkg
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/burger_camera_pkg/cmake/burger_camera_pkgConfig.cmake
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/burger_camera_pkg/cmake/burger_camera_pkgConfig-version.cmake
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/burger_camera_pkg/share/burger_camera_pkg/package.xml

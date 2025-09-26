@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/amankhan-riyasat-pathan/mobile_portfolio_ws/src/turtlebot3/turtlebot3_description
+CMAKE_SOURCE_DIR = /home/amankhan-riyasat-pathan/mobile_portfolio_ws/src/burger_camera_pkg
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_description
+CMAKE_BINARY_DIR = /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/burger_camera_pkg
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -142,9 +142,9 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_description/CMakeFiles /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_description//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/burger_camera_pkg/CMakeFiles /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/burger_camera_pkg//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_description/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/burger_camera_pkg/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -185,17 +185,17 @@ uninstall/fast:
 .PHONY : uninstall/fast
 
 #=============================================================================
-# Target rules for targets named turtlebot3_description_uninstall
+# Target rules for targets named burger_camera_pkg_uninstall
 
 # Build rule for target.
-turtlebot3_description_uninstall: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 turtlebot3_description_uninstall
-.PHONY : turtlebot3_description_uninstall
+burger_camera_pkg_uninstall: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 burger_camera_pkg_uninstall
+.PHONY : burger_camera_pkg_uninstall
 
 # fast build rule for target.
-turtlebot3_description_uninstall/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/turtlebot3_description_uninstall.dir/build.make CMakeFiles/turtlebot3_description_uninstall.dir/build
-.PHONY : turtlebot3_description_uninstall/fast
+burger_camera_pkg_uninstall/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/burger_camera_pkg_uninstall.dir/build.make CMakeFiles/burger_camera_pkg_uninstall.dir/build
+.PHONY : burger_camera_pkg_uninstall/fast
 
 # Help Target
 help:
@@ -210,7 +210,7 @@ help:
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
 	@echo "... test"
-	@echo "... turtlebot3_description_uninstall"
+	@echo "... burger_camera_pkg_uninstall"
 	@echo "... uninstall"
 .PHONY : help
 

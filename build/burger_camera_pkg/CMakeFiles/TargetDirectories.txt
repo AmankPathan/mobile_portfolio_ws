@@ -1,0 +1,9 @@
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/burger_camera_pkg/CMakeFiles/uninstall.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/burger_camera_pkg/CMakeFiles/burger_camera_pkg_uninstall.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/burger_camera_pkg/CMakeFiles/test.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/burger_camera_pkg/CMakeFiles/edit_cache.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/burger_camera_pkg/CMakeFiles/rebuild_cache.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/burger_camera_pkg/CMakeFiles/list_install_components.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/burger_camera_pkg/CMakeFiles/install.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/burger_camera_pkg/CMakeFiles/install/local.dir
+/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/burger_camera_pkg/CMakeFiles/install/strip.dir
