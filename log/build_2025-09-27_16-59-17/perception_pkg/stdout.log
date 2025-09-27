@@ -1,0 +1,23 @@
+running develop
+Removing /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages/perception-pkg.egg-link (link to .)
+running egg_info
+writing ../../build/perception_pkg/perception_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/perception_pkg/perception_pkg.egg-info/dependency_links.txt
+writing requirements to ../../build/perception_pkg/perception_pkg.egg-info/requires.txt
+writing top-level names to ../../build/perception_pkg/perception_pkg.egg-info/top_level.txt
+reading manifest file '../../build/perception_pkg/perception_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/perception_pkg/perception_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+creating /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages/perception_pkg
+copying /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/build/lib/perception_pkg/__init__.py -> /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages/perception_pkg
+byte-compiling /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages/perception_pkg/__init__.py to __init__.cpython-312.pyc
+running install_data
+copying resource/perception_pkg -> /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/share/perception_pkg
+running install_egg_info
+Copying ../../build/perception_pkg/perception_pkg.egg-info to /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages/perception_pkg-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/install.log'

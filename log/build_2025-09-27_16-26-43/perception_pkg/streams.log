@@ -1,0 +1,17 @@
+[2.185s] Invoking command in '/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/build --no-deps symlink_data --force
+[2.785s] running develop
+[3.188s] running egg_info
+[3.229s] writing perception_pkg.egg-info/PKG-INFO
+[3.229s] writing dependency_links to perception_pkg.egg-info/dependency_links.txt
+[3.230s] writing requirements to perception_pkg.egg-info/requires.txt
+[3.230s] writing top-level names to perception_pkg.egg-info/top_level.txt
+[3.310s] reading manifest file 'perception_pkg.egg-info/SOURCES.txt'
+[3.312s] writing manifest file 'perception_pkg.egg-info/SOURCES.txt'
+[3.354s] running build_ext
+[3.355s] Creating /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages/perception-pkg.egg-link (link to .)
+[3.356s] 
+[3.356s] Installed /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg
+[3.356s] running symlink_data
+[3.356s] symbolically linking /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/resource/perception_pkg -> /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/share/ament_index/resource_index/packages
+[3.357s] symbolically linking /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/package.xml -> /home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/share/perception_pkg
+[3.395s] Invoked command in '/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg/build --no-deps symlink_data --force

@@ -1,0 +1,34 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_teleop",
+        "/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_teleop/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_example",
+        "/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_example/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg",
+        "/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/ros2_ws/install/turtle_controller/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/build/my_py_pkg",
+        "/home/amankhan-riyasat-pathan/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/ros2_proj/install/turtle_controller/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/ros2_proj/install/pub_sub_project/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_teleop",
+        "/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_teleop/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/turtlebot3_example",
+        "/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/turtlebot3_example/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/mobile_portfolio_ws/build/perception_pkg",
+        "/home/amankhan-riyasat-pathan/mobile_portfolio_ws/install/perception_pkg/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/ros2_ws/install/turtle_controller/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/build/my_py_pkg",
+        "/home/amankhan-riyasat-pathan/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/ros2_proj/install/turtle_controller/lib/python3.12/site-packages",
+        "/home/amankhan-riyasat-pathan/ros2_proj/install/pub_sub_project/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
